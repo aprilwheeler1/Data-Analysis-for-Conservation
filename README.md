@@ -17,10 +17,16 @@ Results
 The following four pie charts show area estimates of major vegetation and land-use categories within a 15-mile-diameter circle of all regions (Punta Gorda, Gallon Jug, Cockscomb Basin, Belmopan). These figures are based on GIS analysis of land use mapping provided by Meerman (2004).   
 
 <img width="216" alt="image" src="https://github.com/aprilwheeler1/Remote-Sensing-the-City-of-Los-Angeles/assets/102776972/a44c6eef-81c2-49be-b62d-3adb32984059">
+<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;"></div>
 
 <img width="217" alt="image" src="https://github.com/aprilwheeler1/Remote-Sensing-the-City-of-Los-Angeles/assets/102776972/d207c516-0d45-4f4e-bfed-eb52ae4f312a">
+<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;"></div>
 
 <img width="217" alt="image" src="https://github.com/aprilwheeler1/Remote-Sensing-the-City-of-Los-Angeles/assets/102776972/5d98e239-5f20-49ae-bd77-08c580ec492d">
+<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;"></div>
 
 <img width="216" alt="image" src="https://github.com/aprilwheeler1/Remote-Sensing-the-City-of-Los-Angeles/assets/102776972/50a7d24a-505c-443b-8836-f8eab303912f">
 
