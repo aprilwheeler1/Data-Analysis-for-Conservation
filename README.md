@@ -30,5 +30,47 @@ The following four pie charts show area estimates of major vegetation and land-u
 
 <img width="216" alt="image" src="https://github.com/aprilwheeler1/Remote-Sensing-the-City-of-Los-Angeles/assets/102776972/50a7d24a-505c-443b-8836-f8eab303912f">
 
+The following pie charts show each of the specific parcels being considered for possible conservation acquisition within each region (Belmopan, Cockscomb Basin, Gallon Jug, and Punta Gorda), area estimates of major vegetation and land use categories. These figures were created based on GIS analysis of land use mapping provided by Meerman (2004).
+
+<img width="217" alt="image" src="https://github.com/aprilwheeler1/Data-Analysis-for-Conservation/assets/102776972/329aebdd-9def-42aa-bb45-19f8194de661">
+<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;"></div>
+
+<img width="216" alt="image" src="https://github.com/aprilwheeler1/Data-Analysis-for-Conservation/assets/102776972/912cf33e-e4ad-4905-90d2-c61f05297e55">
+<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;"></div>
+
+<img width="216" alt="image" src="https://github.com/aprilwheeler1/Data-Analysis-for-Conservation/assets/102776972/5d4fdb01-1b1f-4ca1-b1c8-5fca4b263891">
+<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;"></div>
+
+<img width="218" alt="image" src="https://github.com/aprilwheeler1/Data-Analysis-for-Conservation/assets/102776972/4c596e2c-33e7-480f-9f5d-18df6d9511af">
+<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;"></div>
+
+The following table shows the results of the MacKinnon data at the four different regions (Gallon Jug, Belmopan, Cockscomb Basin, Punta Gorda
+
+<img width="303" alt="image" src="https://github.com/aprilwheeler1/Data-Analysis-for-Conservation/assets/102776972/7518f62c-06a3-4afb-9778-70d82123d114">
+<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;"></div>
+
+<img width="468" alt="image" src="https://github.com/aprilwheeler1/Data-Analysis-for-Conservation/assets/102776972/618c3e42-76de-46db-bf17-10c039bc12aa">
+<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;"></div>
+
+Discussion   
+
+&nbsp;&nbsp;&nbsp;&nbsp;After analyzing the data from the vegetation and land-use indices, each of the specific parcels, and the MacKinnon survey data and results for all four locations in Belize (Belmopan, Cockscomb Basin, Gallon, Jug, and Punta Gorda) I conclude that Gallon Jug would be the best location to utilize protection and conservation resources. According to the diversity indices in the first table, Gallon Jug has the lowest number of taxa (96) and lowest number of individuals (1740). As shown in the first series of pie charts, Gallon Jug contains the highest percentage of lowland broadleaf forest (97%) and lowest percentage of agricultural uses (2%) out of the four locations. I think that it would be more efficient to conserve the already present forest, than to have to compete with the higher percentage of agricultural land-use at the other locations. After analyzing the MacKinnon data and creating a line graph, it is clear that Gallon Jug also has the lowest number of cumulative species out of the four locations. Providing the region of Gallon Jug with conservation resources would help to increase the cumulative number of species and number of individuals in the area.   
 
 
+References
+
+Fjeldsa, J. (1999) The impact of human forest disturbance on the endemic avifauna of the 	Udzungwa Mountains, Tanzania. Bird Conservation International. 9, 47-62.
+
+MacKinnon, S. & Phillips, K. (1993) A Field Guide to the Birds of Borneo, Sumatra, Java and 	Bali. Oxford University Press, Oxford.
+
+O’Dea, N., Watson, J. E. M., & Whittaker, R. J. (2004). Rapid assessment in conservation 	research: a critique of avifaunal assessment techniques illustrated by Ecuadorian and 	Madagascan case study data. Diversity & Distributions, 10(1), 55–63. https://doi-	org.ezproxy.snhu.edu/10.1111/j.1472-4642.2004.00050.x
+
+Meerman and Sabido. (2001). Belize Ecosystem Map: 2004 version. Retrieved from: 	http://biological-diversity.info/Ecosystems.htm
+
+Poulsen, B.O. & Krabbe, N. (1998) Avifaunal diversity of five high altitude cloud forests on the 	Andean western slope of Edcuador: testing a rapid assessment method. Journal of 	Biogeography, 25, 83-93.
